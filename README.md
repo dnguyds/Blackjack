@@ -1,2 +1,2 @@
 # Blackjack
-A BlackJack project created using C++ in Visual Studio. The game is played through text.
+A BlackJack project created in Visual Studio written in C++. The game is played through text.
